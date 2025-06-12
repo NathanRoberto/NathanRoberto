@@ -1,3 +1,6 @@
+![Minha imagem](/nathan-banner.png)
+
+
 ## Hi there 👋
 
 <!--
