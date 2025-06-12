@@ -1,8 +1,13 @@
 ![Minha imagem](/nathan-banner.png)
 
 
-## Hi there 👋
+## Hi, I'm Nathan 👋
 
+
+About me:
+- I'm web developer since 2020
+- JavaScript | React | NodeJS
+- I'm graduated in Computer Science
 <!--
 **NathanRoberto/NathanRoberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
