@@ -1,24 +1,31 @@
+<div align="center">
 ![Minha imagem](/nathan-banner.png)
+</div>
 
+# Olá! 👋meu nome é Nathan
 
-## Hi, I'm Nathan 👋
+<p align="center">
+  🧑🏽‍💻 Desenvolvedor | 🎨 Designer | 🚀 Entusiasta de tecnologia<br>
+  📍 São Paulo     | 🌐 https://my-cv-rho-murex.vercel.app
+</p>
 
+---
 
-About me:
-- I'm web developer since 2020
-- JavaScript | React | NodeJS
-- I'm graduated in Computer Science
-<!--
-**NathanRoberto/NathanRoberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Sobre mim
 
-Here are some ideas to get you started:
+- 👨🏽‍🎓 Formação: Ciência da Computação
+- 🗣️ Linguagens: **JavaScript | NodeJS | Python | MySQL** <br>
+- 🤖 Tecnologias: **Bootstrap | Figma  | React | Tailwind** <br>
+- 🌱 Evoluindo: **Go | C# | Vue.js | Angular** <br>
+- 😄 Pronomes: **ele/dele**<br>
+- ⚡ Extra: **Sou formado em Automação Industrial** <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
