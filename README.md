@@ -1,6 +1,4 @@
-<div align="center">
 ![Minha imagem](/nathan-banner.png)
-</div>
 
 # Olá! 👋meu nome é Nathan
 
