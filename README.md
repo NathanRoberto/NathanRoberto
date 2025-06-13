@@ -11,12 +11,12 @@
 
 ### 🧠 Sobre mim
 
-- 👨🏽‍🎓 Formação: Ciência da Computação
-- 🗣️ Linguagens: **JavaScript | NodeJS | Python | MySQL** <br>
+- 👨🏽‍🎓 Formação: **Ciência da Computação e Automação Industrial**
+- 🗣️ Linguagens: **JavaScript | NodeJS | SQL | Java** <br>
 - 🤖 Tecnologias: **Bootstrap | Figma  | React | Tailwind** <br>
-- 🌱 Evoluindo: **Go | C# | Vue.js | Angular** <br>
-- 😄 Pronomes: **ele/dele**<br>
-- ⚡ Extra: **Sou formado em Automação Industrial** <br>
+- 🌱 Evoluindo: **Go | C# | Vue.js | Angular | Illustrator** <br>
+- 🔮 Planejo: **Fazer duas pós-grauação** <br>
+- ⚡ Extra: **Já atuei com SolidWorks, AutoCAD** <br>
 
 ---
 
@@ -27,3 +27,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+
+### 😎 Complemento
+
+Como um bom entusiasta, gosto de aprender diversas linguagens, conhecendo a capacidade de cada uma, e entendo a interação entre elas.
+
