@@ -13,10 +13,10 @@
 
 - 👨🏽‍🎓 Formação: **Ciência da Computação e Automação Industrial**
 - 🗣️ Linguagens: **JavaScript | NodeJS | SQL | Java** <br>
-- 🤖 Tecnologias: **Bootstrap | Figma  | React | Tailwind** <br>
+- 🤖 Tecnologias: **JQuery | Bootstrap | Figma  | React | Tailwind** <br>
 - 🌱 Evoluindo: **Go | C# | Vue.js | Angular | Illustrator** <br>
-- 🔮 Planejo: **Fazer duas pós-grauação** <br>
-- ⚡ Extra: **Já atuei com SolidWorks, AutoCAD** <br>
+- 🔮 Planejo: **Fazer duas pós-graduações** <br>
+- ⚡ Extra: **Já atuei com SolidWorks e AutoCAD** <br>
 
 ---
 
@@ -31,5 +31,7 @@
 
 ### 😎 Complemento
 
-Como um bom entusiasta, gosto de aprender diversas linguagens, conhecendo a capacidade de cada uma, e entendo a interação entre elas.
+Como um bom entusiasta, gosto de aprender diversas linguagens e tecnologias, conhecendo a capacidade de cada uma, e entendo a interação entre elas. 
+Além de minhas formações, tenho mais de mil horas em diversos cursos e capacitações certificadas, de hard e soft skills em diversas plataformas, como Alura, Rockeseat, Fundação Bradesco, SENAI entre outras, sem incluir horas de leitura em documentações como MDN, Can I Use, DevDocs, e outras fontes oficiais.
+Afinal, aprender nunca é demais 😄 
 
